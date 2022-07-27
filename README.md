@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyamaddin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and flutter
+- 🌱 I’m currently learning python and web programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Twitter: Niyameddin34
 
